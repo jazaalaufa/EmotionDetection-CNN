@@ -4,7 +4,7 @@ Mendeteksi Emosi Manusia melalui Pengenalan Ekspresi Wajah menggunakan Algoritma
 
 Berikut evaluasi model menggunakan 5 epoch
 
-
+![cobaa](https://user-images.githubusercontent.com/65441615/146631653-6aa5020e-3909-4b9d-b914-b35eec05fa05.JPG)
 
 Dataset yang digunakan dapat didownload melalui link berikut :
 
